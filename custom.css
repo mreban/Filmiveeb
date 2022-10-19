@@ -33,11 +33,12 @@ section {
 }
 
 header {
-    background-color: #303030;
+    background-color: #54595E;
 }
 
-header .h1 {
+header h1 {
     color: white;
+    text-transform: uppercase;
 }
 footer {
     margin-top: 60px;
