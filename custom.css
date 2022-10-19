@@ -16,6 +16,9 @@
     color: #000000;   
 }
 
+.navbar {
+    background-color: #54595E;
+}
 .navbar-nav li {
     margin-right: 3em;
 }
@@ -37,9 +40,12 @@ header {
 }
 
 header h1 {
-    color: white;
+    color: #FFFBF6;
+    font-family: Source Serif Pro;
+    font-size: 55px;
     text-transform: uppercase;
 }
+
 footer {
     margin-top: 60px;
     padding: 5em;
