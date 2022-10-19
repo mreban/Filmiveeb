@@ -16,11 +16,20 @@
     color: #000000;   
 }
 
+
 .navbar {
     background-color: #54595E;
 }
+
+.navbar-nav {
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
 .navbar-nav li {
     margin-right: 3em;
+    background-color: #47525E;
 }
 
 section {
@@ -49,4 +58,15 @@ header h1 {
 footer {
     margin-top: 60px;
     padding: 5em;
+}
+
+.pilt-ja-tekst {
+    display: flex;
+    justify-content: space-between;
+    background-color: #000000;
+    margin: 13%;
+}
+
+.pilt-ja-tekst p {
+    color: white;
 }
