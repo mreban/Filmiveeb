@@ -131,21 +131,8 @@ h2 {
     
 }
 
-/*
-.tekst {
-    color:rgb(100, 100, 100);
-    width: 300px;
-    height: 250px;
-    margin-top: 15px;
-    margin-left: 0px;
-    margin-right: 20px;
-    border: 1px solid rgb(100, 100, 100);
-    border-radius: 2%;
-}*/
-
 .container3 {
     margin-left: 60px;
-    border-color:rgb(100, 100, 100);
 }
 
 .checked {
