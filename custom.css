@@ -1,22 +1,3 @@
-.lnr {
-    display: inline-block;
-    fill: currentColor;
-    width: 1em;
-    height: 1em;
-    vertical-align: -0.05em;
-    stroke-width: 2;
-}
-
-.lnr-cart {
-    width: 1.5em;
-    height: 1.5em;
-}
-
-.lnr-magnifier {
-    color: #000000;   
-}
-
-
 .navbar {
     background-color: #54595E;
 }
@@ -150,6 +131,7 @@ h2 {
     
 }
 
+/*
 .tekst {
     color:rgb(100, 100, 100);
     width: 300px;
@@ -159,7 +141,7 @@ h2 {
     margin-right: 20px;
     border: 1px solid rgb(100, 100, 100);
     border-radius: 2%;
-}
+}*/
 
 .container3 {
     margin-left: 60px;
