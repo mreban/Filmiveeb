@@ -60,15 +60,20 @@ header h1 {
 }
 
 footer {
-    margin-top: 60px;
-    padding: 5em;
+    padding: 2em;
+    background-color: #54595E;
 }
+
+footer p {
+    color: white;
+}
+
 
 .pilt-ja-tekst {
     display: flex;
     justify-content: space-between;
     background-color: #000000;
-    margin: 13%;
+    margin: 5% 13%;
 }
 
 .pilt-ja-tekst p {
