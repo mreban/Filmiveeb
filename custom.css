@@ -44,11 +44,6 @@ section {
     text-align: center;
 }
 
- h2 {
-text-align: center;
-font-family: Source Serif Pro;
-}
-
 .card-body {
     align-content: center;
 }
@@ -65,7 +60,7 @@ header h1 {
 }
 
 footer {
-    padding: 2em;
+    padding: 1em;
     background-color: #54595E;
 }
 
@@ -73,6 +68,21 @@ footer p {
     color: white;
 }
 
+footer .footer-parem img {
+    width: 40px;
+    height: 40px;
+    margin: 5px;
+}
+
+.footer-vasak {
+    margin-top: 10px;
+    margin-left: 50px;
+}
+
+.footer-parem {
+    margin-top: 10px;
+    margin-right: 50px;
+}
 
 .pilt-ja-tekst {
     display: flex;
@@ -83,4 +93,13 @@ footer p {
 
 .pilt-ja-tekst p {
     color: white;
+}
+
+h2 {
+    color: #54595E;
+}
+
+.media img {
+    width: 17.5em;
+    height: 17.5em;
 }
