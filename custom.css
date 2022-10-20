@@ -23,13 +23,17 @@
 
 .navbar-nav {
     margin: auto;
-    display: flex;
-    justify-content: space-between;
 }
 
 .navbar-nav li {
     margin-right: 3em;
     background-color: #47525E;
+}
+
+.navbar-nav li .nav-link {
+    color: white;
+    margin-right: 40px;
+    margin-left: 40px;
 }
 
 section {
